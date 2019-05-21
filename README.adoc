@@ -45,6 +45,7 @@ _Useful tools and libraries for implementing annotation processors_
 * https://jakewharton.com/annotation-processing-boilerplate-destruction-square-waterloo/[Annotation Processing Boilerplate Destruction]
 * https://de.slideshare.net/deors/javaone-2017-con3282-code-generation-with-annotation-processors-state-of-the-art-in-java-9[Code Generation with Annotation Processors: State of the Art in Java 9]
 * https://speakerdeck.com/gunnarmorling/das-annotation-processing-api-use-cases-und-best-practices[Das Annotation Processing API - Use Cases und Best Practices] (German)
+* https://www.slideshare.net/raphaelbrugier/quickie-annotationsprocessordevoxxfr2015[Annotation Processor, trésor caché de la JVM] (French)
 
 == Blog Posts and Articles
 
