@@ -17,7 +17,7 @@ _Existing annotation processors for different purposes_
 * https://github.com/derive4j/derive4j[derive4j] - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, folds, optics and typeclasses.
 * https://github.com/misberner/duzzt[Duzzt] - Duzzt - Annotation-based Embedded DSL Generator for Java.
 * https://github.com/google/auto[Google Auto] - A collection of source code generators for Java.
-https://github.com/LachlanMcKee/gsonpath[Gson Path] - A Java annotation processor library which generates gson type adapters using basic JsonPath style annotations.
+* https://github.com/LachlanMcKee/gsonpath[Gson Path] - A Java annotation processor library which generates gson type adapters using basic JsonPath style annotations.
 * http://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-annotation-processor[Hibernate Validator annotation processor] - Compile-time checking of Bean Validation constraints.
 * https://docs.jboss.org/hibernate/orm/current/topical/html_single/metamodelgen/MetamodelGenerator.html[JPA Static Metamodel Generator] - Creates JPA 2 static metamodel classes.
 * https://immutables.github.io/[Immutables] - Java annotation processors to generate simple, safe and consistent value objects.
