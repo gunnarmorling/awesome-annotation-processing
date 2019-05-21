@@ -22,6 +22,7 @@ _Existing annotation processors for different purposes_
 * https://docs.jboss.org/hibernate/orm/current/topical/html_single/metamodelgen/MetamodelGenerator.html[JPA Static Metamodel Generator] - Creates JPA 2 static metamodel classes.
 * https://immutables.github.io/[Immutables] - Java annotation processors to generate simple, safe and consistent value objects.
 * http://mapstruct.org/[MapStruct] - Compile-time generator for type-safe bean-to-bean mapping code.
+* https://micronaut.io[Micronaut] - A modern full-stack framework for building modular, easily testable microservice and serverless applications.
 
 === Android
 
