@@ -1,0 +1,60 @@
+= Awesome Java Annotation Processing
+:toc:
+:toc-placement!:
+
+Java Annotation Processing (defined by https://jcp.org/en/jsr/detail?id=269[JSR 269]) is a standardized API for hooking into the Java compiler, allowing you to validate the code under compilation and generate additional (source or byte) code.
+This https://github.com/topics/awesome-list[Awesome List] aims at providing an overview of helpful resources around that API,
+including existing useful annotation processors, related presentations and blog posts, implementation best practices etc.
+
+toc::[]
+
+== Existing Annotation Processors
+
+_Existing annotation processors for different purposes_
+
+* https://github.com/ap4k/ap4k[ap4k] - Generates manifests for Kubernetes.
+* https://google.github.io/dagger/[Dagger] - Compile-time dependency injection framework for both Java and Android.
+* https://github.com/derive4j/derive4j[derive4j] - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, folds, optics and typeclasses.
+* https://github.com/misberner/duzzt[Duzzt] - Duzzt - Annotation-based Embedded DSL Generator for Java.
+* https://github.com/google/auto[Google Auto] - A collection of source code generators for Java.
+https://github.com/LachlanMcKee/gsonpath[Gson Path] - A Java annotation processor library which generates gson type adapters using basic JsonPath style annotations.
+* http://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-annotation-processor[Hibernate Validator annotation processor] - Compile-time checking of Bean Validation constraints.
+* https://docs.jboss.org/hibernate/orm/current/topical/html_single/metamodelgen/MetamodelGenerator.html[JPA Static Metamodel Generator] - Creates JPA 2 static metamodel classes.
+* https://immutables.github.io/[Immutables] - Java annotation processors to generate simple, safe and consistent value objects.
+* http://mapstruct.org/[MapStruct] - Compile-time generator for type-safe bean-to-bean mapping code.
+
+=== Android
+
+_Annotation processors specific to Android development_
+
+* https://github.com/JakeWharton/butterknife[Butter Knife] - Bind Android views and callbacks to fields and methods.
+* https://github.com/johncarl81/parceler[Parceler] - Android Parcelables made easy through code generation.
+
+== Useful Tools
+
+_Useful tools and libraries for implementing annotation processors_
+
+* https://github.com/google/compile-testing[Compile Testing] - Testing tools for javac and annotation processors.
+* https://github.com/square/javapoet[JavaPoet] - A Java API for generating .java source files.
+* https://github.com/vietj/hickory[Hickory] - An annotation processor for generating "prisms", allowing to access known annotation types without class references.
+
+== Slide Decks and Recordings
+
+* https://speakerdeck.com/rharter/at-eliminate-boilerplate-1[@Eliminate("Boilerplate")]
+* https://jakewharton.com/annotation-processing-boilerplate-destruction-square-waterloo/[Annotation Processing Boilerplate Destruction]
+* https://de.slideshare.net/deors/javaone-2017-con3282-code-generation-with-annotation-processors-state-of-the-art-in-java-9[Code Generation with Annotation Processors: State of the Art in Java 9]
+* https://speakerdeck.com/gunnarmorling/das-annotation-processing-api-use-cases-und-best-practices[Das Annotation Processing API - Use Cases und Best Practices] (German)
+
+== Blog Posts and Articles
+
+* http://hannesdorfmann.com/annotation-processing/annotationprocessing101[Annotation Processing 101]
+* https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657[Annotation Processing : Don’t Repeat Yourself, Generate Your Code.]
+* https://jax.de/blog/core-java-jvm-languages/java-annotation-processing-das-koennte-auch-ein-computer-erledigen/[Java Annotation Processing: Das könnte auch ein Computer erledigen] (German)
+* https://www.baeldung.com/java-annotation-processing-builder[Java Annotation Processing and Creating a Builder]
+
+== Related Concepts
+
+_APIs and tools going beyond what's doable with JSR 269_
+
+* http://spoon.gforge.inria.fr/[Spoon] - Source Code Analysis and Transformation for Java (allows for AST modifications, too)
+* https://docs.oracle.com/javase/8/docs/jdk/api/javac/tree/com/sun/source/util/Plugin.html[javac Plug-in API] (allows for full AST inspection)
