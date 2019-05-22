@@ -23,6 +23,7 @@ _Existing annotation processors for different purposes_
 * https://immutables.github.io/[Immutables] - Java annotation processors to generate simple, safe and consistent value objects.
 * http://mapstruct.org/[MapStruct] - Compile-time generator for type-safe bean-to-bean mapping code.
 * https://micronaut.io[Micronaut] - A modern full-stack framework for building modular, easily testable microservice and serverless applications.
+* https://github.com/DominoKit/gwt-jackson-apt[GWT jackson APT] - Generates jackson based JSON mappers where the same mapper can be used on the JVM or GWT client javascript code.
 
 === Android
 
