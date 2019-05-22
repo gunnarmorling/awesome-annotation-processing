@@ -24,6 +24,7 @@ _Existing annotation processors for different purposes_
 * https://immutables.github.io/[Immutables] - Java annotation processors to generate simple, safe and consistent value objects.
 * http://mapstruct.org/[MapStruct] - Compile-time generator for type-safe bean-to-bean mapping code.
 * https://micronaut.io[Micronaut] - A modern full-stack framework for building modular, easily testable microservice and serverless applications.
+* https://github.com/sundrio/sundrio[Sundrio] - A collection of apt-based code generating tools, including advanced builder generator, dsl generator, velocity transformer and etc.
 
 === Android
 
