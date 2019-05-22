@@ -55,6 +55,7 @@ _Useful tools and libraries for implementing annotation processors_
 * https://jax.de/blog/core-java-jvm-languages/java-annotation-processing-das-koennte-auch-ein-computer-erledigen/[Java Annotation Processing: Das könnte auch ein Computer erledigen] (German)
 * https://www.baeldung.com/java-annotation-processing-builder[Java Annotation Processing and Creating a Builder]
 * https://blog.jooq.org/2018/12/07/how-to-unit-test-your-annotation-processor-using-joor/[How to Unit Test Your Annotation Processor using jOOR]
+* https://medium.com/androidiots/writing-your-own-annotation-processors-in-android-1fa0cd96ef11[Writing your own Annotation Processors in Android]
 
 == Related Concepts
 
