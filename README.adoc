@@ -46,17 +46,17 @@ _Useful tools and libraries for implementing annotation processors_
 * https://speakerdeck.com/rharter/at-eliminate-boilerplate-1[@Eliminate("Boilerplate")]
 * https://jakewharton.com/annotation-processing-boilerplate-destruction-square-waterloo/[Annotation Processing Boilerplate Destruction]
 * https://www.slideshare.net/raphaelbrugier/quickie-annotationsprocessordevoxxfr2015[Annotation Processor, trésor caché de la JVM] (French)
+* https://github.com/fbiville/annotation-processing-ftw[Annotation Processing Hands-on Labs, Devoxx France 2015] (French)
 * https://de.slideshare.net/deors/javaone-2017-con3282-code-generation-with-annotation-processors-state-of-the-art-in-java-9[Code Generation with Annotation Processors: State of the Art in Java 9]
 * https://speakerdeck.com/gunnarmorling/das-annotation-processing-api-use-cases-und-best-practices[Das Annotation Processing API - Use Cases und Best Practices] (German)
-* https://github.com/fbiville/annotation-processing-ftw[Annotation Processing Hands-on Labs, Devoxx France 2015] (French)
 
 == Blog Posts and Articles
 
 * http://hannesdorfmann.com/annotation-processing/annotationprocessing101[Annotation Processing 101]
 * https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657[Annotation Processing : Don’t Repeat Yourself, Generate Your Code.]
+* https://blog.jooq.org/2018/12/07/how-to-unit-test-your-annotation-processor-using-joor/[How to Unit Test Your Annotation Processor using jOOR]
 * https://jax.de/blog/core-java-jvm-languages/java-annotation-processing-das-koennte-auch-ein-computer-erledigen/[Java Annotation Processing: Das könnte auch ein Computer erledigen] (German)
 * https://www.baeldung.com/java-annotation-processing-builder[Java Annotation Processing and Creating a Builder]
-* https://blog.jooq.org/2018/12/07/how-to-unit-test-your-annotation-processor-using-joor/[How to Unit Test Your Annotation Processor using jOOR]
 * https://medium.com/androidiots/writing-your-own-annotation-processors-in-android-1fa0cd96ef11[Writing your own Annotation Processors in Android]
 
 == Related Concepts
@@ -65,3 +65,4 @@ _APIs and tools going beyond what's doable with JSR 269_
 
 * http://spoon.gforge.inria.fr/[Spoon] - Source Code Analysis and Transformation for Java (allows for AST modifications, too)
 * https://docs.oracle.com/javase/8/docs/jdk/api/javac/tree/com/sun/source/util/Plugin.html[javac Plug-in API] (allows for full AST inspection)
+* https://projectlombok.org/[Project Lombok] - Generates boilerplate Java code like getters/setters and equals/hashCode methods.
