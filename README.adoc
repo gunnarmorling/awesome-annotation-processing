@@ -18,12 +18,12 @@ _Existing annotation processors for different purposes_
 * https://github.com/misberner/duzzt[Duzzt] - Duzzt - Annotation-based Embedded DSL Generator for Java.
 * https://github.com/google/auto[Google Auto] - A collection of source code generators for Java.
 * https://github.com/LachlanMcKee/gsonpath[Gson Path] - A Java annotation processor library which generates gson type adapters using basic JsonPath style annotations.
+* https://github.com/DominoKit/gwt-jackson-apt[GWT jackson APT] - Generates Jackson based JSON mappers where the same mapper can be used on the JVM or GWT client Javascript code.
 * http://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-annotation-processor[Hibernate Validator annotation processor] - Compile-time checking of Bean Validation constraints.
 * https://docs.jboss.org/hibernate/orm/current/topical/html_single/metamodelgen/MetamodelGenerator.html[JPA Static Metamodel Generator] - Creates JPA 2 static metamodel classes.
 * https://immutables.github.io/[Immutables] - Java annotation processors to generate simple, safe and consistent value objects.
 * http://mapstruct.org/[MapStruct] - Compile-time generator for type-safe bean-to-bean mapping code.
 * https://micronaut.io[Micronaut] - A modern full-stack framework for building modular, easily testable microservice and serverless applications.
-* https://github.com/DominoKit/gwt-jackson-apt[GWT jackson APT] - Generates jackson based JSON mappers where the same mapper can be used on the JVM or GWT client javascript code.
 
 === Android
 
