@@ -24,6 +24,7 @@ _Existing annotation processors for different purposes_
 * http://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/#validator-annotation-processor[Hibernate Validator annotation processor] - Compile-time checking of Bean Validation constraints.
 * https://docs.jboss.org/hibernate/orm/current/topical/html_single/metamodelgen/MetamodelGenerator.html[JPA Static Metamodel Generator] - Creates JPA 2 static metamodel classes.
 * https://immutables.github.io/[Immutables] - Java annotation processors to generate simple, safe and consistent value objects.
+* https://github.com/openjdk/jmh[JMH Generator] - Generates Java Microbenchmark Harness (JMH) benchmarks.
 * http://mapstruct.org/[MapStruct] - Compile-time generator for type-safe bean-to-bean mapping code.
 * https://micronaut.io[Micronaut] - A modern full-stack framework for building modular, easily testable microservice and serverless applications.
 * https://github.com/sundrio/sundrio[Sundrio] - A collection of apt-based code generating tools, including advanced builder generator, dsl generator, velocity transformer and etc.
