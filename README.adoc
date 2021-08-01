@@ -12,7 +12,7 @@ toc::[]
 
 _Existing annotation processors for different purposes_
 
-* https://github.com/Pante/chimera[chimera] - Compile-time static analysis and generation of commands for Spigot.
+* https://github.com/Pante/chimera[chimera] - Compile-time static analysis and generation of commands for Spigot plugins.
 * https://github.com/dekorateio/dekorate[dekorate] - Generates manifests for Kubernetes/OpenShift.
 * https://google.github.io/dagger/[Dagger] - Compile-time dependency injection framework for both Java and Android.
 * https://github.com/derive4j/derive4j[derive4j] - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, folds, optics and typeclasses.
