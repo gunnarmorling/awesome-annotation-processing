@@ -12,6 +12,7 @@ toc::[]
 
 _Existing annotation processors for different purposes_
 
+* https://github.com/Pante/chimera[chimera] - Compile-time static analysis and generation of commands for Spigot.
 * https://github.com/dekorateio/dekorate[dekorate] - Generates manifests for Kubernetes/OpenShift.
 * https://google.github.io/dagger/[Dagger] - Compile-time dependency injection framework for both Java and Android.
 * https://github.com/derive4j/derive4j[derive4j] - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, folds, optics and typeclasses.
@@ -63,6 +64,7 @@ _Useful tools and libraries for implementing annotation processors_
 * https://blog.jooq.org/2018/12/07/how-to-unit-test-your-annotation-processor-using-joor/[How to Unit Test Your Annotation Processor using jOOR]
 * https://jax.de/blog/core-java-jvm-languages/java-annotation-processing-das-koennte-auch-ein-computer-erledigen/[Java Annotation Processing: Das könnte auch ein Computer erledigen] (German)
 * https://www.baeldung.com/java-annotation-processing-builder[Java Annotation Processing and Creating a Builder]
+* https://dzone.com/articles/the-problem-with-annotation-processors[The Problem with Annotation Processors]
 * https://medium.com/androidiots/writing-your-own-annotation-processors-in-android-1fa0cd96ef11[Writing your own Annotation Processors in Android]
 
 == Related Concepts
