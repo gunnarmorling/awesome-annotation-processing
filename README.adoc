@@ -12,6 +12,8 @@ toc::[]
 
 _Existing annotation processors for different purposes_
 
+* https://github.com/avaje/avaje-inject[avaje-inject] - Compile-time dependency injection library.
+* https://github.com/avaje/avaje-jsonb[avaje-jsonb] - JSON mapping using generated source code
 * https://github.com/Pante/chimera[chimera] - Compile-time static analysis and generation of commands for Spigot plugins.
 * https://github.com/dekorateio/dekorate[dekorate] - Generates manifests for Kubernetes/OpenShift.
 * https://google.github.io/dagger/[Dagger] - Compile-time dependency injection framework for both Java and Android.
