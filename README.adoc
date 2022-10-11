@@ -32,6 +32,7 @@ _Existing annotation processors for different purposes_
 * https://github.com/bowbahdoe/magic-bean[Magic Bean] - A very basic library which will generate POJOs.
 * http://mapstruct.org/[MapStruct] - Compile-time generator for type-safe bean-to-bean mapping code.
 * https://micronaut.io[Micronaut] - A modern full-stack framework for building modular, easily testable microservice and serverless applications.
+* https://github.com/almogtavor/pojo-analyzer[Pojo Analyzer] - A library enables looping over POJOs' fields or access them by their names, and retreive their getters & setters.
 * https://github.com/Randgalt/record-builder[Record Builder] - Adds Builders and Withers for Java Records (added in Java 16).
 * https://github.com/sundrio/sundrio[Sundrio] - A collection of apt-based code generating tools, including advanced builder generator, dsl generator, velocity transformer and etc.
 * https://github.com/civitz/viper[Viper] - A generator and a framework for injecting configurations via the java EE's CDI. Put all your configuration keys in an enum, and make viper inject the configurations in your beans.
