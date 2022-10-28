@@ -29,6 +29,7 @@ _Existing annotation processors for different purposes_
 * https://immutables.github.io/[Immutables] - Java annotation processors to generate simple, safe and consistent value objects.
 * https://github.com/openjdk/jmh[JMH Generator] - Generates Java Microbenchmark Harness (JMH) benchmarks.
 * https://github.com/jbock-java/jbock[jbock] - Generates command line parsers.
+* https://github.com/jstachio/jstachio[jstachio] - A typesafe Java Mustache templating engine that compiles templates into readable Java code.
 * https://github.com/bowbahdoe/magic-bean[Magic Bean] - A very basic library which will generate POJOs.
 * http://mapstruct.org/[MapStruct] - Compile-time generator for type-safe bean-to-bean mapping code.
 * https://micronaut.io[Micronaut] - A modern full-stack framework for building modular, easily testable microservice and serverless applications.
