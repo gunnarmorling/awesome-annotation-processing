@@ -56,6 +56,7 @@ _Useful tools and libraries for implementing annotation processors_
 * https://github.com/toolisticon/aptk[APTK] - A toolbox that helps you to build annotation processors in a more efficient way.
 * https://github.com/square/javapoet[JavaPoet] - A Java API for generating .java source files.
 * https://github.com/vietj/hickory[Hickory] - An annotation processor for generating "prisms", allowing to access known annotation types without class references.
+* https://github.com/avaje/avaje-prisms[Avaje Prisms] - A JDK 11 fork of Hickory with some minor enhancements.
 * https://velocity.apache.org[Apache Velocity] - A Java-based template engine
 
 == Slide Decks and Recordings
