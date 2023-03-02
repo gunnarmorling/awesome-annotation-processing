@@ -38,6 +38,7 @@ _Existing annotation processors for different purposes_
 * https://github.com/sundrio/sundrio[Sundrio] - A collection of apt-based code generating tools, including advanced builder generator, dsl generator, velocity transformer and etc.
 * https://github.com/civitz/viper[Viper] - A generator and a framework for injecting configurations via the java EE's CDI. Put all your configuration keys in an enum, and make viper inject the configurations in your beans.
 * https://github.com/cleopatra27/chocotea[chocotea] - Generates postman collection, environment and integration tests from Java code.
+* https://github.com/jbock-java/simple-component[simple-component] - Another compile-time dependency injector.
 
 === Android
 
