@@ -54,6 +54,7 @@ _Useful tools and libraries for implementing annotation processors_
 * https://github.com/toolisticon/aptk[APTK] - A toolbox that helps you to build annotation processors in a more efficient way.
 * https://github.com/avaje/avaje-prisms[Avaje Prisms] - A JDK 11 fork of Hickory with some minor enhancements.
 * https://github.com/google/compile-testing[Compile Testing] - Testing tools for javac and annotation processors.
+* https://github.com/ascopes/java-compiler-testing[Java Compiler Testing] - Library for integration testing annotation processors against javac. Supports testing packages and JPMS modules, uses in-memory file systems, and includes integrations with Junit5 and AssertJ.
 * https://github.com/toolisticon/cute[CUTE] - Testing tools for javac and annotation processors. Allows unit and black box testing.
 * https://github.com/Pante/elementary[Elementary] - A suite of JUnit 5 extensions that provides a real annotation processing environment during testing
 * https://github.com/square/javapoet[JavaPoet] - A Java API for generating .java source files.
