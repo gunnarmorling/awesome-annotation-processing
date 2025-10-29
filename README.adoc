@@ -29,6 +29,7 @@ _Existing annotation processors for different purposes_
 * https://github.com/xmolecules/jmolecules-integrations/tree/main/jmolecules-apt[jMolecules annotation processor] - Verifies rules attached to https://github.com/xmolecules/jmolecules[jMolecules] concepts.
 * https://docs.jboss.org/hibernate/orm/current/topical/html_single/metamodelgen/MetamodelGenerator.html[JPA Static Metamodel Generator] - Creates JPA 2 static metamodel classes.
 * https://immutables.github.io/[Immutables] - Java annotation processors to generate simple, safe and consistent value objects.
+* https://github.com/skinny85/jilt[jilt] - Generates builder pattern classes (including Staged Builder).
 * https://github.com/openjdk/jmh[JMH Generator] - Generates Java Microbenchmark Harness (JMH) benchmarks.
 * https://github.com/jbock-java/jbock[jbock] - Generates command line parsers.
 * https://github.com/jstachio/jstachio[jstachio] - A typesafe Java Mustache templating engine that compiles templates into readable Java code.
